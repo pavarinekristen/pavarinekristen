@@ -55,6 +55,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavarinekristen&hide_border=true" />
 </p>
 
+<p align="left">
+  <img src="https://ghchart.rshah.org/39d353/pavarinekristen" alt="Gráfico de contribuições" width="100%" />
+</p>
+
 ---
 
 <p align="center"><i>Aberto a oportunidades e sempre aprendendo algo novo 🚀</i></p>
