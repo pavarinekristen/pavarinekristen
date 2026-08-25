@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-Graduando em Ciência da Computação pela UFU e em Inteligência Artificial pela Cruzeiro do Sul, atualmente estagiário na <a href="https://github.com/TechOneTi">Tech One</a>. Trabalho em produtos web completos — do banco de dados à interface — e gosto de aprender ferramentas novas no processo.
+Graduando em Ciência da Computação pela UFU e em Inteligência Artificial pela Cruzeiro do Sul, atualmente estagiário na <a href="https://github.com/TechOneTi">Tech One</a>. Trabalho em produtos web completos do banco de dados à interface e gosto de aprender ferramentas novas no processo.
 </p>
 
 <br/>
