@@ -55,10 +55,6 @@ Graduando em Ciência da Computação pela UFU e em Inteligência Artificial pel
 <sub>GITHUB</sub>
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavarinekristen&hide_border=true&background=00000000&ring=22C55E&fire=22C55E&currStreakNum=16A34A&sideNums=166534&currStreakLabel=16A34A&sideLabels=4B5563&dates=6B7280" />
-
-<br/>
-
 <img src="https://ghchart.rshah.org/22C55E/pavarinekristen" width="90%" />
 
 </div>
