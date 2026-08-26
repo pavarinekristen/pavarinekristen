@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Graduando em Ciência da Computação pela UFU e em Inteligência Artificial pela Cruzeiro do Sul, atualmente estagiário na [Tech One](https://github.com/TechOneTi). Trabalho em produtos web completos — do banco de dados à interface — e gosto de aprender ferramentas novas no processo.
+Graduando em Ciência da Computação pela UFU e em Inteligência Artificial pela Cruzeiro do Sul, atualmente estagiário na [Tech One](https://github.com/TechOneTi). Trabalho em produtos web completos do banco de dados à interface e gosto de aprender ferramentas novas no processo.
 
 ## Habilidades Tecnológicas
 
