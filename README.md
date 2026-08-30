@@ -21,19 +21,14 @@
 
 <table>
   <tr>
-    <td width="160px" align="center" valign="middle">
+    <td width="160" align="center" valign="middle">
       <img src="./Gemini_Generated_Image_fvepdhfvepdhfvep.png" width="140" alt="Kristen Pavarine Avatar Pixel Art" style="border-radius: 10px;" />
     </td>
     <td valign="middle">
-      <p>Graduando em Ciência da Computação pela UFU e IA pela Cruzeiro do Sul, atuando no desenvolvimento backend com Python, C#/.NET e PHP. Experiência prática na Tech One (Grupo Martins) criando pipelines de validação de dados e APIs REST, além de projetos autorais em RAG/LLMs, visão computacional e sistemas web/desktop em produção. Conhecimentos em Docker, PostgreSQL e arquiteturas completas do banco ao frontend.</p>
-      
-      <br/>
-
-      <div>
-        <a href="https://www.linkedin.com/in/kristen-pavarine-7b6a14328/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-16A34A?style=flat-square&logo=linkedin&logoColor=white" /></a>
-        <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-16A34A?style=flat-square&logo=instagram&logoColor=white" /></a>
-        <a href="mailto:devkristenpp@gmail.com"><img src="https://img.shields.io/badge/Gmail-16A34A?style=flat-square&logo=gmail&logoColor=white" /></a>
-      </div>
+      Graduando em Ciência da Computação pela UFU e IA pela Cruzeiro do Sul, atuando no desenvolvimento backend com Python, C#/.NET e PHP. Experiência prática na Tech One (Grupo Martins) criando pipelines de validação de dados e APIs REST, além de projetos autorais em RAG/LLMs, visão computacional e sistemas web/desktop em produção. Conhecimentos em Docker, PostgreSQL e arquiteturas completas do banco ao frontend.<br/><br/>
+      <a href="https://www.linkedin.com/in/kristen-pavarine-7b6a14328/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-16A34A?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-16A34A?style=flat-square&logo=instagram&logoColor=white" /></a>
+      <a href="mailto:devkristenpp@gmail.com"><img src="https://img.shields.io/badge/Gmail-16A34A?style=flat-square&logo=gmail&logoColor=white" /></a>
     </td>
   </tr>
 </table>
