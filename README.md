@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td width="220px" align="center" valign="top">
-      <img src="./Gemini_Generated_Image_fvepdhfvepdhfvep.png" width="200" alt="Kristen Pavarine Avatar Pixel Art" style="border-radius: 10px;" />
+      <img src="[./Gemini_Generated_Image_fvepdhfvepdhfvep.png](https://github.com/pavarinekristen/pavarinekristen/issues/1#issue-5293765287)" width="200" alt="Kristen Pavarine Avatar Pixel Art" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       Graduando em Ciência da Computação pela UFU e em Inteligência Artificial pela Cruzeiro do Sul, atualmente estagiário na <a href="https://github.com/TechOneTi">Tech One</a>. Trabalho em produtos web completos do banco de dados à interface e gosto de aprender ferramentas novas no processo.
