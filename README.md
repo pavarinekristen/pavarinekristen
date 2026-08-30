@@ -16,18 +16,31 @@
 
 <br/>
 
-
 ## Sobre mim
 
 <table>
   <tr>
     <!-- Coluna da Imagem -->
-    <td width="220px" align="center" valign="middle">
-      <img src="https://github.com/pavarinekristen/pavarinekristen/assets/103138334/a87e5b1d-c840-4b0d-b4b1-8b01a24d5d34" width="200" alt="Kristen Pavarine Avatar Pixel Art" style="border-radius: 10px;" />
+    <td width="300px" align="center" valign="top">
+      <img src="./Gemini_Generated_Image_fvepdhfvepdhfvep.png" width="280" alt="Kristen Pavarine Avatar Pixel Art" style="border-radius: 10px;" />
     </td>
-    <!-- Coluna do Texto -->
-    <td valign="middle">
-      Graduando em Ciência da Computação pela UFU e em Inteligência Artificial pela Cruzeiro do Sul, atualmente estagiário na <a href="https://github.com/TechOneTi">Tech One</a>. Trabalho em produtos web completos do banco de dados à interface e gosto de aprender ferramentas novas no processo.
+    <!-- Coluna do Texto e Badges -->
+    <td valign="top">
+      <p>Graduando em Ciência da Computação pela UFU e em Inteligência Artificial pela Cruzeiro do Sul, atualmente estagiário na <a href="https://github.com/TechOneTi">Tech One</a>. Trabalho em produtos web completos do banco de dados à interface e gosto de aprender ferramentas novas no processo.</p>
+      
+      <br/>
+      
+      <div align="left">
+        <a href="https://www.linkedin.com/in/kristen-pavarine-7b6a14328/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-16A34A?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-16A34A?style=flat-square&logo=instagram&logoColor=white" /></a>
+        <a href="mailto:devkristenpp@gmail.com"><img src="https://img.shields.io/badge/Gmail-16A34A?style=flat-square&logo=gmail&logoColor=white" /></a>
+      </div>
+      
+      <br/>
+      
+      <div align="center">
+        <p style="color: #16A34A; font-weight: bold; font-size: 1.2em;">Kristen's fields of study, Kristen's trend bold</p>
+      </div>
     </td>
   </tr>
 </table>
